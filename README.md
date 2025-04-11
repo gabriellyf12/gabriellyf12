@@ -1,4 +1,4 @@
-## Hey, Gabs here! ✨
+## Hey, gabs here! ✨
 
 **Welcome to my profile!**  👋🏻
 
