@@ -1,7 +1,7 @@
 # Hey, gabs here! ✨
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+UFRJ;Front-end+%26+Automation+Developer;Passionate+about+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%40+UFRJ;Front-end+%26+Automation+Developer;PPassionate+about+Software+Engineering" alt="Typing SVG" />
 </div>
 
 ---
