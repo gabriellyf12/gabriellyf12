@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellyf12&show_icons=true&theme=dracula&count_private=true" alt="Gabs' GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyf12&layout=compact&theme=dracula" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gabriellyf12&show_icons=true&theme=dracula&count_private=true" alt="Gabs' GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriellyf12&layout=compact&theme=dracula" alt="Top Languages" height="170"/>
 </div>
 
 ---
