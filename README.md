@@ -12,7 +12,7 @@
 - ⚙️ Technical background in Telecom from **CEFET/RJ**.
 - 💼 Experience as a **Front-end Developer** (EJCM) & **Automation Intern** (BTG Pactual).
 - 🌱 Currently diving deeper into **Software Engineering, Cloud (AWS/Azure), and Data Automation**.
-- 📫 How to reach me: [gabriellydfferreira@gmail.com](mailto:gabriellydfferreira@gmail.com) | [LinkedIn](https://linkedin.com/in/gabrielly-freitas-ferreira)
+- 📫 How to reach me: [gabriellydfferreira@gmail.com](mailto:gabriellydfferreira@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gabrielly-ferreira-8528a0235/)
 
 ---
 
