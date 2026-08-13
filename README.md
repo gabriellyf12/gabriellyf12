@@ -51,7 +51,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <sub>Built with ✨ by Gabs</sub>
-</div>
